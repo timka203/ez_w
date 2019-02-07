@@ -1,0 +1,32 @@
+﻿  Source.cpp
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(75): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(113): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(125): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(144): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(160): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(178): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(183): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(186): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(208): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(224): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(229): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(232): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(249): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(262): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(267): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(286): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(299): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(304): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(321): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(333): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(338): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(392): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(399): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(476): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(519): warning C4018: <=: несоответствие типов со знаком и без знака
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(572): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(573): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(594): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(609): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\пашакуловт\source\repos\project2\project2\source.cpp(658): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project2.vcxproj -> C:\Users\ПашакуловТ\source\repos\Project2\Debug\Project2.exe
